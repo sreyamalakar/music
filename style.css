@@ -1,0 +1,102 @@
+body{
+  background-color: #dddbd7;
+}
+.head1{
+  width: 65%;
+}
+.head12{
+  float:right;
+  list-style: None;
+  margin-top:2px;
+  padding:15px;
+  padding-top:5px;
+  font-weight: bold;
+}
+.head13{
+  padding-left:100px;
+}
+.head14{
+  position:absolute;
+  top:7px;
+  left:27px;
+}
+.head12:hover{
+  font-size: 20px;
+  color: #6d5119;
+}
+.sec{
+  background-image: url("ya1.png");
+  background-size: 1590px 480px;
+  color: #ffffff;
+  background-repeat: no-repeat;
+  padding: 250px;
+  font-size: 40px;
+  font-weight: bold;
+  padding-left: 150px;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  margin-bottom:10px;
+  padding-bottom: 100px;
+  margin-top:20px;
+}
+hr{
+  border-style:none;
+  border-top-style:dotted;
+  border-color: #01140D;
+  border-width: 4px;
+  width:4%;
+  margin:100px auto;
+}
+.section12{
+  width: 90%;
+  margin-left:90px;
+  margin-right: 90px;
+}
+.h1{
+text-align: center;
+font-size: 28px;
+}
+.a{
+  text-align: center;
+  font-size: 22px;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-weight: bold;
+}
+.a1{
+  border-style:none;
+  border-top-style:dotted;
+  border-color: #01140D;
+  border-width: 4px;
+  width:4%;
+  margin:60px auto;
+}
+.sec1{
+  padding:20px;
+  padding-bottom: 40px;
+}
+
+.sec1:hover{
+  box-shadow: 12px 12px 12px 12px #000000;
+}
+.ad{
+  margin-left:120px;
+  margin-right:20px;
+}
+h1{
+  text-align: center;
+  font-size: 37px;
+}
+.foot{
+  background-color: #272629;
+  color: #ffffff;
+}
+.foot2{
+  margin:auto;
+  width:70%;
+  font-size:20px;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.p1{
+  text-align: center;
+  font-size: 18px;
+}
